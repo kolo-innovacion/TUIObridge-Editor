@@ -1,0 +1,30 @@
+<system resx="1690" resy="384" fullscreen="0" winScale="1.0" targetIP="localhost" targetPort="6100">
+	<page>
+		<button name="buttonRed">
+			<x>150</x>
+			<y>106</y>
+			<width>174</width>
+			<height>151</height>
+		</button>
+		<button name="buttonGreen">
+			<x>0</x>
+			<y>106</y>
+			<width>174</width>
+			<height>151</height>
+		</button>
+	</page>
+	<page>
+		<button name="buttonBlue">
+			<x>300</x>
+			<y>50</y>
+			<width>174</width>
+			<height>151</height>
+		</button>
+		<button name="buttonYellow">
+			<x>500</x>
+			<y>151</y>
+			<width>174</width>
+			<height>151</height>
+		</button>
+	</page>
+</system>
